@@ -2,6 +2,8 @@
 
 This is part of designing "web components" which can be re-used to design different sections in a website.
 
+[Live here](qr-web-component.surge.sh)
+
 ## Table of contents
 
 - [Overview](#overview)
