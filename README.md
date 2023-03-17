@@ -9,9 +9,7 @@ This is part of designing "web components" which can be re-used to design differ
 <!--  - [Links](#links)-->
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -19,8 +17,13 @@ This is part of designing "web components" which can be re-used to design differ
 
 ## Overview
 
-### Screenshot
+#### Screenshot
 
+#### Desktop-View
+![QR_Code_DesktopView](https://user-images.githubusercontent.com/87880250/225968332-54005870-6431-4ea2-a0f9-8fbf37953d4f.png)
+
+#### Mobile-View
+![QR_Code_mobileView](https://user-images.githubusercontent.com/87880250/225968334-a95984e1-d4a8-4ca3-8245-eb210ade0ce6.png)
 
 <!--
 ### Links
