@@ -1,13 +1,16 @@
 let card = document.querySelector(".cardHolder");
-card.setAttribute("class", "shadow-lg p-3 mb-5 bg-white rounded");
+card.setAttribute(
+  "style",
+  "display: flex; justify-content: center; align-items: center;"
+);
 function generateCard() {
   let cardHtml = `
-    <div class="card m-3" style="max-width: 18rem;">
-        <div class='card-header bg-info'>
-            <img class='card-img-top rounded mx-auto d-block w-50 ' src='Images/qrcode.png' />
+    <div class="card shadow-lg p-3 bg-white rounded" style="max-width: 18rem;">
+        <div class='card-header bg-info rounded' style='height: 250px;'>
+            <img class='card-img-top rounded mx-auto d-block m-2' src='Images/qrcode.png' />
         </div>
         <div class='card-body text-center'>
-            <h4 class="card-title">coderhimanshu.com</h4>
+            <h5 class="card-title m-2">coderhimanshu.com</h5>
             <p class="card-text">Scan the QR Code to visit my portfolio</p>
         </div>
     </div>
@@ -17,5 +20,3 @@ function generateCard() {
 }
 
 generateCard();
-
-// TO DO: Design it and improve UI.
